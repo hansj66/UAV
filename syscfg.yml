@@ -1,0 +1,13 @@
+syscfg.defs:
+
+syscfg.vals:
+    CONSOLE_UART: 0
+    CONSOLE_RTT: 1
+
+    SPI_0: 1
+    I2C_1: 1
+
+    UART_0:  1
+    PWM_0: 1
+ #   UART_0_PIN_TX: 29
+ #   UART_0_PIN_RX: 28
