@@ -1,0 +1,4 @@
+### Target: targets/UAV
+target.app: "apps/UAV"
+target.bsp: "@apache-mynewt-core/hw/bsp/telee02"
+target.build_profile: "debug"
